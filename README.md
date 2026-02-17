@@ -46,15 +46,15 @@ Demonstrates vector indexing and retrieval with ChromaDB.
 
 Python scripts:
 
-python text_classification.py
+1️⃣ python text_classification.py
 
-python sentiment_analysis.py
+2️⃣ python sentiment_analysis.py
 
-python named_entity_recognition.py
+3️⃣ python named_entity_recognition.py
 
 
 Jupyter notebooks:
 
-jupyter notebook semantic_similarity_search.ipynb
+4️⃣ jupyter notebook semantic_similarity_search.ipynb
 
-jupyter notebook csv_embeddings_pandas.ipynb
+5️⃣ jupyter notebook csv_embeddings_pandas.ipynb
